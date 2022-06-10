@@ -3,5 +3,5 @@
 `clc` &emsp; -- clear all commands in the command window  
 `clear all` &emsp; -- clear all variables in workspace  
 `%%` &emsp; -- paragraph comment line  
-`%` &emsp; -- comment line  
+`%` &nbsp; -- comment line  
 
