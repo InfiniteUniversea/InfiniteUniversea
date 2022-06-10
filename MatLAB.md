@@ -1,7 +1,7 @@
 # Simple usage of MATALB
 
-`clc` &emsp; -- clear all commands in the command window  
-`clear all` &ensp; -- clear all variables in workspace  
-`%%` &emsp; -- paragraph comment line  
-`%` &nbsp; -- comment line  
+`clc` &emsp;&emsp;&emsp;&emsp;&emsp; -- clear all commands in the command window  
+`clear all` &emsp;&emsp;&emsp;&emsp;&ensp; -- clear all variables in workspace  
+`%%` &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; -- paragraph comment line  
+`%` &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; -- comment line  
 
