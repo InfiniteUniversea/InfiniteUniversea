@@ -1,4 +1,4 @@
-# Simple usage of MATALB
+# Simple usage of MATLAB
 
 `clc` 		-- clear all commands in the command window  
 `clear all` 		-- clear all variables in workspace  
