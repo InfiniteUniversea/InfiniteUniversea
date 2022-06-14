@@ -17,9 +17,8 @@ Computer = `hardware` `operating System` `application programs` `user`
 <img src="ExtraFiles/PhotoFiles/self1.1.png" width = "200" height = "90" align=center />
 </div> 
 
-<div  align="center" >    
+problem: CPU time, memory space, storage space, I/O devices, and so on.
 
-</div> 
 
 
 
