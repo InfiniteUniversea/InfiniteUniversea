@@ -9,9 +9,13 @@ an intermediary between user and hardware
 
 Computer = `hardware` `operating System` `application programs` `user`
 <div  align="center" >    
-![avatar](ExtraFiles/PhotoFiles/OperaterSystemFigure1-1.png)
+<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-1.png" width = "400" height = "280" align=center />
 </div>
-<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-1.png" width = "300" height = "200" alt = "OS1.1" align=center />
+
+<div  align="center" >    
+<img src="ExtraFiles/PhotoFiles/self1.1.png" width = "400" height = "280" align=center />
+</div> 
+
 
 
 
