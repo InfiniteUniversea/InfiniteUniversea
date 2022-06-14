@@ -9,9 +9,6 @@ an intermediary between user and hardware
 
 Computer = `hardware` `operating System` `application programs` `user`
 
-                | header | header |
-| ------ | ------ |
-| cell | cell |
-| cell | cell |
+
 
 
