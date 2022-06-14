@@ -12,3 +12,5 @@ Variable name consists of letters, numbers, and underscores. Punctuation is not 
 `a = 'String'` -- String represent by '' single quotes  
 `abs(a)` --	ASCII code conversion  
 `char(97)` --	char number switch to ASCII code  
+
+`+` `-` `*` `/`
