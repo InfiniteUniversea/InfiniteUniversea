@@ -13,7 +13,11 @@ Computer = `hardware` `operating System` `application programs` `user`
 </div>
 
 <div  align="center" >    
-<img src="ExtraFiles/PhotoFiles/self1.1.png" width = "400" height = "280" align=center />
+<img src="ExtraFiles/PhotoFiles/self1.2.png" width = "200" height = "100" align=center />
+</div> 
+
+<div  align="center" >    
+<img src="ExtraFiles/PhotoFiles/self1.1.png" width = "200" height = "100" align=center />
 </div> 
 
 
