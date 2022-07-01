@@ -25,6 +25,12 @@ Storage Structure:
 <img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "300" height = "220" align=center />
 </div> 
 
+$FTN—Execute the FORTRAN compiler.  
+$ASM—Execute the assembler.  
+$RUN—Execute the user program.  
+
+
+
 
 
 
