@@ -20,14 +20,18 @@ Computer = `hardware` `operating System` `application programs` `user`
 
 problem: CPU time, memory space, storage space, I/O devices, and so on.
 
-<div  align="center" >  
-Storage Structure: 
-<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "300" height = "220" align=center />
-</div> 
-
+```
 $FTN—Execute the FORTRAN compiler.  
 $ASM—Execute the assembler.  
-$RUN—Execute the user program.  
+$RUN—Execute the user program. 
+```
+
+<div  align="center" >  
+Storage Structure: 
+<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "630" height = "400" align=center />
+</div> 
+
+ 
 
 
 
