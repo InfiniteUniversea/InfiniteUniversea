@@ -7,7 +7,7 @@ software manage hardware
 an intermediary between user and hardware  
 
 Computer = `hardware` `operating System` `application programs` `user`
-<div  align="center" >    
+<div  align="center" width = "auto" height = "auto" >    
 <img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-1.png" width = "400" height = "260" align=center />
 </div>
 
@@ -28,7 +28,7 @@ $RUN—Execute the user program.
 
 <div  align="center" >  
 Storage Structure: 
-<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = auto height = "400" align=center />
+<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "650" height = "400" align=center />
 </div> 
 
  
