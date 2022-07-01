@@ -7,7 +7,7 @@ software manage hardware
 an intermediary between user and hardware  
 
 Computer = `hardware` `operating System` `application programs` `user`
-<div  align="center" width = "auto" height = "auto" >    
+<div  align="center" width = auto height = "auto" >    
 <img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-1.png" width = "400" height = "260" align=center />
 </div>
 
