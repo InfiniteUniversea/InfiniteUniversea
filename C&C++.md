@@ -13,13 +13,17 @@ Computer = `hardware` `operating System` `application programs` `user`
 
 <div  align="center" >    
 <img src="ExtraFiles/PhotoFiles/self1.2.png" width = "500" height = "280" align=center />
+</div> 
+<div  align="center" >   
 <img src="ExtraFiles/PhotoFiles/self1.1.png" width = "200" height = "90" align=center />
 </div> 
 
 problem: CPU time, memory space, storage space, I/O devices, and so on.
 
+<div  align="center" >  
 Storage Structure: 
 <img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "300" height = "220" align=center />
+</div> 
 
 
 
