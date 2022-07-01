@@ -31,6 +31,10 @@ Storage Structure:
 <img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "650" height = "400" align=center />
 </div> 
 
+<div  align="center">  
+<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-3.png" height = "300" align=center />
+</div> 
+
  
 
 
