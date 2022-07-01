@@ -18,6 +18,10 @@ Computer = `hardware` `operating System` `application programs` `user`
 
 problem: CPU time, memory space, storage space, I/O devices, and so on.
 
+Storage Structure: 
+<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "300" height = "220" align=center />
+
+
 
 
 
