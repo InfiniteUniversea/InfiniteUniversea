@@ -28,7 +28,7 @@ $RUN—Execute the user program.
 
 <div  align="center" >  
 Storage Structure: 
-<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "630" height = "400" align=center />
+<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = auto height = "400" align=center />
 </div> 
 
  
