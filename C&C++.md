@@ -41,7 +41,7 @@ $RUN—Execute the user program.
 >
 >Computer storage, along with most computer throughput, is generally measured and manipulated in bytes and collections of bytes.   
 >A kilobyte, or KB, is 1,024 bytes;  
->A megabyte, or MB, is $1,024^2$ bytes;   
+>A megabyte, or MB, is 1,024^2 bytes;   
 >A gigabyte, or GB, is 1,024^3 bytes;  
 >A terabyte, or TB, is 1,024^4 bytes;   
 >A petabyte, or PB, is 1,024^5 bytes.   
