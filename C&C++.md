@@ -26,21 +26,16 @@ $ASM—Execute the assembler.
 $RUN—Execute the user program. 
 ```
 
-###  Storage Structure: 
-<div  align="center" width = auto > 
-
-<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "620" align=center />
-</div>   
-  
 <div  align="center">  
 <img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-3.png" height = "260" align=center />
 </div> 
 
+###  Storage Structure: 
+<div  align="center" width = auto > 
+<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "620" align=center />
+</div>   
+  
  
-
-
-
-
 
 
 
