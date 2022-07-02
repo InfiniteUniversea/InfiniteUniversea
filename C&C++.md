@@ -35,7 +35,7 @@ $RUN—Execute the user program.
 <img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-2.png" width = "620" align=center />
 </div>   
   
- 
+bit is 0 or 1 (The basic value of computer)
 
 
 
