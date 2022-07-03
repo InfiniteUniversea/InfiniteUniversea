@@ -12,10 +12,10 @@ Computer = `hardware` `operating System` `application programs` `user`
 </div>
 
 <div  align="center" >    
-<img src="ExtraFiles/PhotoFiles/self1.2.png" height = "280" align=center />
+<img src="ExtraFiles/PhotoFiles/self1.2.png" width = "400" align=center />
 </div> 
 <div  align="center" >   
-<img src="ExtraFiles/PhotoFiles/self1.1.png"height = "90" align=center />
+<img src="ExtraFiles/PhotoFiles/self1.1.png" width = "90" align=center />
 </div> 
 
 problem: CPU time, memory space, storage space, I/O devices, and so on.
@@ -27,7 +27,7 @@ $RUN—Execute the user program.
 ```
 
 <div  align="center">  
-<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-3.png" height = "260" align=center />
+<img src="ExtraFiles/PhotoFiles/OperaterSystemFigure1-3.png" width = "260" align=center />
 </div> 
 
 ##   STORAGE DEFINITIONS AND NOTATION
