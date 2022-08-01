@@ -6,4 +6,8 @@ summation or product of several items
 <div  align="center">  
 <img src="ExtraFiles/PhotoFiles/AIFigure2.png" width = "200" align=center />
 </div>  
-P(X,Y) = P(X) P(Y|X) = P(Y) P(X|Y)  
+
+Distributions on Multiple Discrete or Continuous Random Variables  
+<div  align="center">  
+<img src="ExtraFiles/PhotoFiles/AIFigure3.png" width = "350" align=center />
+</div> 
