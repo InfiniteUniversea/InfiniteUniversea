@@ -12,4 +12,10 @@ Distributions on Multiple Discrete or Continuous Random Variables
 <img src="ExtraFiles/PhotoFiles/AIFigure3.png" width = "350" align=center />
 </div> 
 
-Laplace Smoothing : +1 value for each sample, to guarantee no 0 effect the result
+Laplace Smoothing : +1 value for each sample, to guarantee no 0 effect the result  
+  
+Probability Density Functions : use Gaussian distribution
+<div  align="center">  
+<img src="ExtraFiles/PhotoFiles/AIFigure4.png" width = "350" align=center />
+</div> 
+
