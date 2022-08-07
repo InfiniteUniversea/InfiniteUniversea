@@ -1,10 +1,10 @@
 
 
-
 ### Probability Density Functions : use Gaussian distribution
 <!-- <div  align="center">   -->
-<img src="ExtraFiles/PhotoFiles/AIFigure4.png" width = "260" align=center />
-</div> 
+<img src="ExtraFiles/PhotoFiles/AIFigure4.png" width = "260" align=center />  
+</div>   
+u = average  
 <img src="ExtraFiles/PhotoFiles/AIFigure5.png" width = "400" align=center />
 
 ---
